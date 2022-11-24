@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+nav{
+
+    background-color: #001D2D;
+    color: white;
+    position: relative;
+    width: 1650px;
+    height: 40px;
+    top:90px;
+    margin-left: 0px;
+    text-align: right;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding: 10px;
+    z-index: 55;
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+    padding:10px;
+    
+}
+h3{
+    background-color: #1CD1B0;
+    font-family:'Roboto', sans-serif;
+    width: 1650px;
+    height: 38px;
+    left: 0px;
+    top: -25px;
+    bottom: 150px;
+    box-sizing: border-box;
+    padding:10px;
+    padding-left: 20px;
+    position: absolute;
+    z-index: 5555;   
+}
+h1{
+    background-color: #00669F;
+    font-family:'Roboto', sans-serif;
+    width: 1650px;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    padding:20px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    z-index: 555;
+}
+.cueva{
+    width: 300px;
+    height: 336px;
+    left: 32px;
+    top: 300px;
+    bottom:50px;
+    box-sizing: border-box;
+    position:absolute;
+    z-index: 33;  
+}
+.parrafo{
+    width: 300px;
+    height: 336px;
+    font-family:'Roboto', sans-serif;
+    left: 32px;
+    top: 485px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #F3F3F3;
+    position:absolute;
+    z-index: 333;
+    padding: 20px;
+}
+.batman {
+    border-radius:50%;
+    width: 120px;
+    height: 120px;
+    left: 120px;
+    top: 400px;
+    text-align: center;
+    position:absolute;
+    z-index: 3333;
+}
+.vector{
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 6.25%;
+    bottom: 6.25%;
+    padding-left: 20px;
+}
+
+
+.fondoharley{
+    width: 300px;
+    height: 336px;
+    left: 400px;
+    top: 300px;
+    bottom:50px;
+    box-sizing: border-box;
+    position:absolute;
+    z-index: 33;  
+}
+.parrafo2{
+    width: 300px;
+    height: 336px;
+    left: 400px;
+    font-family:'Roboto', sans-serif;
+    top: 485px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #F3F3F3;
+    position:absolute;
+    z-index: 333;
+    padding: 20px;
+}
+.harley {
+    border-radius:50%;
+    width: 120px;
+    height: 120px;
+    left: 490px;
+    top: 400px;
+    text-align: center;
+    position:absolute;
+    z-index: 3333;
+}
+.vector{
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 6.25%;
+    bottom: 6.25%;
+    padding-left: 20px;
+}
+
+.cueva2{
+    width: 300px;
+    height: 336px;
+    left:800px;
+    top: 300px;
+    bottom:50px;
+    box-sizing: border-box;
+    position:absolute;
+    z-index: 33;  
+}
+.parrafo3{
+    width: 300px;
+    height: 336px;
+    font-family:'Roboto', sans-serif;
+    left: 800px;
+    top: 485px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #F3F3F3;
+    position:absolute;
+    z-index: 333;
+    padding: 20px;
+}
+.batman2 {
+    border-radius:50%;
+    width: 120px;
+    height: 120px;
+    left: 890px;
+    top: 400px;
+    text-align: center;
+    position:absolute;
+    z-index: 3333;
+}
+.vector{
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 6.25%;
+    bottom: 6.25%;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+.pie{
+    background-color: #00669F;
+    position: absolute;
+    top:100%;
+    left:0px;
+    font-family:'Roboto', sans-serif;
+    width: 1650px;
+    padding:15px;
+    color:white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    line-height: 19px;
+    text-align: left;
+}

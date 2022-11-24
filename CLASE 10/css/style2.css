@@ -1,0 +1,175 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300&family=Roboto&display=swap');
+*{
+font-family: 'Inter', sans-serif;
+box-sizing: border-box;
+}
+form {
+    background-color:#00669F ;
+    border-radius: 5px;
+    color: white;
+    width: 954px;
+    height: 832px;
+    left: 243px;
+    top: 184px;
+
+}
+
+.cabecera{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cabecera h2 {
+    font-size: 20px;
+    margin-top:0px;
+
+}
+
+.cajacentral{
+    margin-left:60px;
+}
+
+.contain {
+display: flex;
+flex-wrap: wrap;
+margin-left:20px
+}
+
+
+.nombre {
+    display:flex;
+    flex-direction: column;
+    margin: 10px;
+
+}
+
+.nombre input {
+
+    width: 343px;
+    height: 63px;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+    
+}
+
+.especie {
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.especie select{
+    width: 343px;
+    height: 63px;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+    margin: 10px;
+
+}
+
+.fecha{
+    display:flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.fecha input {
+    width: 343px;
+    height: 63px;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+    margin:10px;
+   
+
+}
+
+.foto{
+    display:flex;
+    flex-direction: column;
+    margin: 10px;
+
+}
+
+.foto input{
+    width: 300px;
+    height: 32px; 
+    margin: 20px;
+    color:black;
+}
+
+.descripcion textarea{
+
+    width: 343px;
+    height: 307px;
+    left: 367px;
+    top: 559px;
+    margin:10px;
+    padding: 20px;
+    font-size: 20px;
+    color:#00000080;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+
+}
+
+.contain2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 10px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+ .check label{
+    font-size:16px;
+}
+
+hr{
+
+    width: 343px;
+    height: 0px;
+}
+.personajes label{
+    font-size:16px;
+}
+
+
+.boton{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1CD1B0;
+    padding: 20px;
+    border-radius: 23.011px;
+    width: 400px;
+    height: 87px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+}
+
+.Añadir{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.pie{
+    background-color: #00669F;
+    position: absolute;
+    top:100%;
+    left:0px;
+    font-family:'Roboto', sans-serif;
+    width: 1650px;
+    padding:15px;
+    color:white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    line-height: 19px;
+    text-align: left;
+}
+
