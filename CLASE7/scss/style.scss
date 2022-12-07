@@ -1,0 +1,111 @@
+body {
+    background-image: url(/img/fondoh.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+header {
+
+
+    .centrarlogo{
+
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+        height: 30%;
+        
+    }
+
+    nav {
+
+        a{
+            border:aqua 2px solid;
+            background-color: greenyellow;
+            font-size: 40px;
+            color: #005677;
+        
+        }
+    }
+    h1{
+
+    left: 0px;
+    top: 188px;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+    background-color: #C4C4C4;
+    letter-spacing: 10px;
+    
+
+    }
+
+
+
+}
+
+main{
+    div{
+        h2{
+            padding-top: 1%;
+            background-color: #C4C4C4;
+            left: 12.45px;
+            top: 524px;
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 84.69%;
+            font-feature-settings: 'cpsp' on;
+            color: #005677;
+            letter-spacing: 0.5ch;
+
+        }
+
+        ul{
+            span {
+
+                font-weight: 700;
+            }
+            
+            .datos{
+                font-style: italic;
+            
+            }
+
+        }
+   }
+
+
+   div{
+
+    section{
+        .justificar{
+                float: left;
+            }
+        }
+    }
+   
+}
+
+footer{
+    i{
+        font-size: 30px;
+    }
+
+    .pie{
+        text-align: center;
+        font-size: 25px;
+        color:#005677;
+        font-style: italic;
+        font-weight: bold;
+    }
+}
